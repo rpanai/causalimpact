@@ -2,6 +2,8 @@ CausalImpact
 -------
 ![build status](https://travis-ci.org/jamalsenouci/causalimpact.svg?branch=master)
 
+**NOTE**: The original repository looks like discontinued and it has problems with recent versions of `pandas` and `statsmodels`.
+
 Disclaimer: CURRENTLY WIP
 
 #### TO DO
@@ -19,9 +21,9 @@ As with all approaches to causal inference on non-experimental data, valid concl
 
 #### Installation
 
-*get the latest version from https://github.com/jamalsenouci/causalimpact:*
+*get the latest version from https://github.com/rpanai/causalimpact:*
 ```bash
-pip install git+ssh://github.com/jamalsenouci/causalimpact.git
+pip install git+ssh://github.com/rpanai/causalimpact.git
 ```
 
 #### Getting started
@@ -34,4 +36,4 @@ pip install git+ssh://github.com/jamalsenouci/causalimpact.git
 * Discussion forum: http://stats.stackexchange.com/
 
 #### Bugs
-The issue tracker is at https://github.com/jamalsenouci/causalimpact/issues. Please report any bugs that you find. Or, even better, fork the repository on GitHub and create a pull request.
+The issue tracker is at https://github.com/rpanai/causalimpact/issues. Please report any bugs that you find. Or, even better, fork the repository on GitHub and create a pull request.
