@@ -35,7 +35,7 @@ config = {
     'author': 'Jamal Senouci',
     'url': 'http://jamalsenouci.github.io/causalimpact.html',
     'download_url': 'https://ppi.python.org/pypi/causalimpact/',
-    'version': '0.2.0',
+    'version': '0.2.1',
     'platforms': ['Linux', 'Mac OSX', 'Windows', 'Unix'],
     'install_requires': ['nose'],
     'packages': ['CausalImpact'],
